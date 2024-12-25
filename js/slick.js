@@ -10,8 +10,8 @@ $(function () {
     dots: true,
     centerMode: true,
     cssEase: 'linear',
-    prevArrow: '.gallery__list-left',
-    nextArrow: '.gallery__list-right',
+    // prevArrow: '.gallery__list-left',
+    // nextArrow: '.gallery__list-right',
   });
 });
 
